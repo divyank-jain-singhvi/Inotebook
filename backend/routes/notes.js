@@ -4,4 +4,4 @@ router.get('/',(req,res)=>{
     res.json([])
 })
 
-module.exports=router
+module.exports=router;
